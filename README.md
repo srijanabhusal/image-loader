@@ -14,7 +14,7 @@
  
  - You may simply download the codes and try running it in your IDE, preferably [VS code](https://code.visualstudio.com/download) 
  - no extra dependencies are required here
- -However, you should pay a special attention in " pubspec.yaml " file about the tab space while including image url
+ - However, you should pay a special attention in " pubspec.yaml " file about the tab space while including image url
 
 ## output
  Your emulator should be displaying the following output:
